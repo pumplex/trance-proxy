@@ -4,8 +4,8 @@
 # noinspection PyUnresolvedReferences
 VSVersionInfo(
 		ffi=FixedFileInfo(
-				filevers=(1, 3, 2, 0),
-				prodvers=(1, 3, 2, 0)
+				filevers=(2, 5, 1, 0),
+				prodvers=(2, 5, 1, 0)
 		),
 		kids=[
 			StringFileInfo([
